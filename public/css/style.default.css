@@ -67,6 +67,7 @@ section {
 }
 .img-responsive {
   margin: 0 auto;
+  padding-bottom: 20px;
 }
 .section-inverse {
   color: #fff;
