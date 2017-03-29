@@ -1,1 +1,15 @@
 /* your styles go here */
+
+.resume-button {
+  color: #fff;
+  border: 1px solid #fff;
+  display: inline-block;
+  padding: 10px 30px;
+  text-decoration: none;
+  border-radius: 200px;
+  background-color: #4CAF50;
+}
+
+.resume-button-div {
+  padding-top: 30px;
+}
