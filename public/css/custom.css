@@ -13,3 +13,31 @@
 .resume-button-div {
   padding-top: 30px;
 }
+
+.resume-button-div a {
+  text-decoration: none;
+}
+
+p.social a {
+  margin-right: 50px;
+}
+
+p.social a.facebook:hover {
+  background-color: #3B5998
+}
+
+p.social a.twitter:hover {
+  background-color: #1DA1F2
+}
+
+p.social a.gplus:hover {
+  background-color: #0077B5
+}
+
+p.social a.instagram:hover {
+  background-color: #24292E
+}
+
+p.social a.email:hover {
+  background-color: #DB4437
+}
